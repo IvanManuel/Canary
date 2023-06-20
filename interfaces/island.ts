@@ -1,0 +1,1 @@
+export type IIsland = 'El Hierro'|'Fuerteventura'|'Gran Canaria'|'La Gomera'|'Lanzarote'|'La Palma'|'Tenerife';
